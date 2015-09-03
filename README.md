@@ -1,4 +1,4 @@
-algoritmos_estruturas_de_dados
+algorithms_and_data_structures_exercises
 ==============================
 
-Graduação FBV
+Devry (FBV) graduation discipline exercises
